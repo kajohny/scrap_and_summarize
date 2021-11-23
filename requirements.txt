@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+bs4
+selenium
+webdriver_manager
+flask_session
+transformers
+jwt
+werkzeug.utils
